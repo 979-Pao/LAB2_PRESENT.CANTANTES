@@ -1,0 +1,29 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width 10vw;
+}
+header{
+    background-color: rgb(216, 197, 235);
+    padding: 10 px;
+    padding-top: 40 px;
+    text-align: center;
+}
+h1{
+    background-color: beige;
+    color:blue;  
+    margin: 20 px;
+}
+.aquamarine{background-color: rgb(248, 168, 244)}
+.green{background-color: rgb(247, 178, 151);}
+.card{
+    width: 700px;
+    height: 130px;
+    background-color: rgb(240, 209, 238);
+    border: 5px solid blueviolet;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    }
+
